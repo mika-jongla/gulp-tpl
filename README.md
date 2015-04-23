@@ -1,0 +1,2 @@
+Simple Gulp Project Template
+============================
